@@ -49,7 +49,7 @@ Nebari Cloud can be deployed on any Kubernetes cluster by leveraging these tools
 Nebari aims to abstract all these complexities for its users. Hence, it is not necessary to know any of the above
 mentioned technologies to have your project successfully deployed.
 
-> **TLD;R**
+> **TL;DR**
 > If you know GitHub/GitLab and feel comfortable generating and using API keys, you should have all it takes to deploy
 > and maintain your system without the need for a dedicated DevOps team. No need to learn Kubernetes, Terraform, or Helm.
 
