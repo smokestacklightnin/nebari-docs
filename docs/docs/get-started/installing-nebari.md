@@ -17,7 +17,7 @@ For other alternatives, visit the [Choosing a deployment platform][nebari-deploy
 
 Nebari heavily depends on [Terraform](https://www.terraform.io/) and Python. The installation of the Terraform binary is built-in within the Nebari source code, and it is automatically downloaded during the first execution. Currently, only `Linux` and `macOS` are supported. `Windows` is only supported through the “Windows Subsystem for Linux” ("WSL").
 
-- Currently, Nebari supports `Python >= 3.8`
+- Currently, Nebari supports `Python >= 3.10`
 - For more details on Terraform and its dependencies, visit the [official Terraform documentation](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - To install conda, visit the [official conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), or if you prefer, visit the [mamba installation documentation](https://github.com/mamba-org/mamba#installation)
 
